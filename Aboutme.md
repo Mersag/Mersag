@@ -1,18 +1,21 @@
 # Introduce
 
-Hi I´m **Meral** We can add a link to the [Github](https://github.com)
+Hi I´m **Meral** 
 
 I´m from Hamburg
+
+We can add a link to the [Linkdin](https://linkedin.com/in/meral-sager-288a40184)
+
 
 ## What I Like
 - Sport
 - Coding
-- Good Food
+- Clean Food
 - Golf
 
 ### Favorite Food 
-1 Poatatos
-2 Salat
+1 
+2 
 
 
 
