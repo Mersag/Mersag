@@ -14,8 +14,8 @@ We can add a link to the [Linkdin](https://linkedin.com/in/meral-sager-288a40184
 - Golf
 
 ### Favorite Food 
-1 
-2 
+1 .
+2 .
 
 
 
